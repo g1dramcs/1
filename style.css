@@ -1,0 +1,27 @@
+ .q{
+    padding: 10px;
+}
+
+.fsb {
+    font-size:100px ;
+}
+
+.white {
+    height: 999px;
+    width: 999px;
+}
+
+.a {
+    background-color: lightgreen;
+}
+
+.b {
+    background-color: lightcoral;
+}
+
+img {
+
+width: 250px;
+height: 200px;
+
+}
