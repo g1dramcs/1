@@ -25,3 +25,15 @@ width: 250px;
 height: 200px;
 
 }
+
+table {
+    margin: 10px;
+}
+
+a {
+    margin: 10px;
+}
+
+.ht {
+    font-size: 20px;
+}
